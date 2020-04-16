@@ -11,4 +11,6 @@ You need html:
   <span class="seconds">11</span>
 </div>
 ```
-And change your end time here: let deadline = '2020-04-19';
+And script.js
+Don't forget to change your end time here: let deadline = '2020-04-19';
+[Demo](https://katrinanov.github.io/timer/)
