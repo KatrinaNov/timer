@@ -2,7 +2,7 @@ window.addEventListener('DOMContentLoaded', function () {
   'use strict';
 
   // Timer
-  let deadline = '2020-04-19'; // конечная дата
+  let deadline = '2021-04-19'; // конечная дата
 
   // определяет остаток времени и вычленяет оставшиеся секунды, минуты и часы
   function getTimeRemaining(endtime) {
